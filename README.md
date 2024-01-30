@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eric-clayton
-- 👀 I’m interested in software development in C++ and Java
-- 🌱 I’m currently learning C++, Java, SQL, Linux and Unreal Engine
+- 👀 I’m interested in software development in C++ and C#
+- 🌱 I’m currently learning C++, Java, SQL, and Godot
 - 💞️ I’m looking to collaborate on open source projects or games written with C++ 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ericclayton1336/)
 
