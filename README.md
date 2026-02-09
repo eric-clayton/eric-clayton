@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eric-clayton
-- 👀 I’m interested in software development in frontend development in javascript
+- 👀 I’m interested in software development
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ericclayton1336/)
 
 <!---
